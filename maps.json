@@ -1,0 +1,42 @@
+{
+  "1153389": {
+    "ID": "1153389",
+    "Name": "Mania Stairs",
+    "Maps": [
+      {
+        "Author": "Creo Ron",
+        "Artist": "Various Artists",
+        "Name": "4k Stairs",
+        "Difficulty": "satori de pon - goreshit",
+        "MapSource": "mapsets/1153389/Various Artists - 4k Stairs (Creo Ron) [satori de pon - goreshit].json"
+      },
+      {
+        "Author": "Creo Ron",
+        "Artist": "Various Artists",
+        "Name": "4k Stairs",
+        "Difficulty": "over the top - xi",
+        "MapSource": "mapsets/1153389/Various Artists - 4k Stairs (Creo Ron) [over the top - xi].json"
+      }
+    ]
+  },
+  "173612": {
+    "ID": "173612",
+    "Name": "Mania Set 1",
+    "Maps": [
+      {
+        "Author": "razlteh",
+        "Artist": "xi",
+        "Name": "FREEDOM DiVE",
+        "Difficulty": "4K Another",
+        "MapSource": "mapsets/173612/xi - FREEDOM DiVE (razlteh) [4K Another].json"
+      },
+	  {
+        "Author": "PokeSky",
+        "Artist": "ARForest",
+        "Name": "The Last Page",
+        "Difficulty": "Final Step Towards The Dream",
+        "MapSource": "mapsets/1276332/ARForest - The Last Page (PokeSky) [Final Step Towards The Dream].json"
+      }
+    ]
+  }
+}
